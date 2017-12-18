@@ -1,0 +1,15 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "transaction",
+    "description": ""
+  },
+  "attributes": {
+    "_id": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}
